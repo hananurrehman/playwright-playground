@@ -1,0 +1,14 @@
+{
+  "name": "playwright-playground",
+  "version": "1.0.0",
+  "description": "This is a playground repository for experimenting with Playwright automation testing.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Hanan Ur Rehman",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  }
+}
