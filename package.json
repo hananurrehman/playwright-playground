@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "description": "This is a playground repository for experimenting with Playwright automation testing.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report",
+    "test:restful": "playwright test tests/restful-booker",
+    "test:internet": "playwright test tests/the-internet",
+    "test:practice": "playwright test tests/practice-software"  },
   "keywords": [],
   "author": "Hanan Ur Rehman",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.52.0",
+    "@playwright/test": "^1.56.0",
     "@types/node": "^22.14.1"
   }
 }
