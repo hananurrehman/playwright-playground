@@ -11,7 +11,8 @@
     "report": "playwright show-report",
     "test:restful": "playwright test tests/restful-booker",
     "test:internet": "playwright test tests/the-internet",
-    "test:practice": "playwright test tests/practice-software"  },
+    "test:practice": "playwright test tests/practice-software"
+  },
   "keywords": [],
   "author": "Hanan Ur Rehman",
   "license": "ISC",
