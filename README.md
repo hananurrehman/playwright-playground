@@ -19,8 +19,3 @@ This repository is a portfolio-quality Playwright playground for R&D experimenta
 3. UI mode: `npm run test:ui`
 4. Open last report: `npm run report`
 
-## R&D Notes
-TBD – Use this section to capture findings, patterns, anti-patterns, snippets.
-
-## Playwright Agents
-TBD – Document Agents flows, prompts, and patterns here as they evolve.
